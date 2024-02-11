@@ -6,3 +6,6 @@
 
 `make run` to compile and run `main()`
 
+## Note
+
+I used this exercise as an opportunity to implement iterators.
