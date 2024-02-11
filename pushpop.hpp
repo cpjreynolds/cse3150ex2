@@ -6,6 +6,8 @@
 #include <memory>
 #include <utility>
 
+// push and pop iterators for std::stack and std::queue
+
 template<class Container>
 class push_iterator {
 public:
